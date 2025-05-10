@@ -79,6 +79,10 @@ let result1: Check<string>; // result1 is of type string
 let result2: Check<number>; // result2 is of type number
 ```
 
+
+
+
+
 # TypeScript Type Inference
 
 TypeScript type inference is a feature that allows the TypeScript compiler to automatically deduce the type of a variable or expression. This means that you do not have to explicitly specify the type of every variable and expression in your code.
